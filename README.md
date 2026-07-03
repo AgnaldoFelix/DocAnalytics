@@ -236,10 +236,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome/Time]
+Desenvolvido por Agnaldo Felix
 
-## 📞 Suporte
 
-Para suporte e dúvidas:
-- Linkedin: [GitHub Issues](https://github.com/AgnaldoFelix)
 
